@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Duc-NSH
+- 👀 I’m interested in Data World, Artificial Intelligence, Factory Automation, and Technology
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on data engineering, machine learning
+- 📫 How to reach me: via mail ducnsh.hust@gmail.com
