@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Duc-NSH
+- 👋 Hi, I’m @Duc Nguyen Sy Hong
 - 👀 I’m interested in Data World, Artificial Intelligence, Factory Automation, and Technology
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on data engineering, machine learning
+- 🌱 I graduated from Control and Automation Engineering, now I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on data engineering, and machine learning
 - 📫 How to reach me: via mail ducnsh.hust@gmail.com
